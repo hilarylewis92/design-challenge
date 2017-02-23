@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800');
-
 body {
   background-color: #7A9E9F;
   font-family: 'Open Sans', sans-serif;
@@ -82,6 +80,7 @@ body {
   border-radius: 5px;
   margin: 20px;
   display: inline-block;
+  padding: 10px 0px;
 }
 
 .hero {
@@ -145,9 +144,11 @@ li {
     bottom: 0;
     padding-bottom: 15px;
   }
+
   .calendar-card {
     height: 18vh;
     margin: 5px;
+    width: 33vw;
   }
   .dashboard {
     width: 100vw;
