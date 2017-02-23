@@ -1,15 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800');
 
 body {
   background-color: #7A9E9F;
+  font-family: 'Open Sans', sans-serif;
 }
 .calendar {
-  /*display: flex;*/
   display: inline-block;
   float: left;
   width: 20vw;
   height: 100vh;
-  /*flex-direction: column;
-  justify-content: space-between;*/
   background-color: #B8D8D8;
   text-align: center;
   padding: 5px;
@@ -99,4 +98,66 @@ body {
 li {
   margin: 15px;
   color: #4F6367;
+}
+.mobile-title {
+  display: none;
+}
+
+@media (max-width: 500px) {
+  .calendar .title{
+    display: none;
+  }
+  .user-name {
+    display: none;
+  }
+  .log-out-btn {
+    display: none;
+  }
+  .quote {
+    display: none;
+  }
+  .thursday {
+    display: none;
+  }
+  .friday {
+    display: none;
+  }
+  .saturday {
+    display: none;
+  }
+  .mobile-title {
+    display: inline;
+    font-size: 40px;
+  }
+  .user{
+    display: inline-block;
+    margin: 10px 10px;
+  }
+  .calendar {
+    display: flex;
+    flex-direction: row;
+    background-color: #7A9E9F;
+    border-right: 0px;
+    float: none;
+    height: 20vh;
+    width: 95vw;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 15px;
+  }
+  .calendar-card {
+    height: 18vh;
+    margin: 5px;
+  }
+  .dashboard {
+    width: 100vw;
+  }
+  .cards {
+    display: block;
+    width: 90vw;
+    margin: 20px auto;
+    height: 130px;
+  }
+
+
 }

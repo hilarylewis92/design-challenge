@@ -1,0 +1,17 @@
+<svg width="28px" height="28px" viewBox="1157 419 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.45905882,0.254647059 L0.255411765,1.45752941 C-0.0879411765,1.80088235 -0.0825882353,2.34458824 0.255411765,2.68258824 L23.3158824,25.7461176 C23.6561765,26.0856471 24.2029412,26.0841176 24.5409412,25.7453529 L25.7438235,24.5424706 C26.0879412,24.1991176 26.0825882,23.6554118 25.7445882,23.3174118 L2.68411765,0.253882353 C2.51435294,0.0841176471 2.29335294,0 2.07235294,0 C1.85058824,0 1.62805882,0.0848823529 1.45905882,0.254647059 L1.45905882,0.254647059 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1158.000000, 420.000000)">
+        <g id="Group-22">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-21"></g>
+        </g>
+        <path d="M1.55388235,1.56535294 L24.3734706,24.2534118" id="Stroke-23" stroke="#43484D" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M24.3736235,1.56535294 L1.55403529,24.2534118" id="Stroke-25" stroke="#43484D" stroke-width="4" stroke-linecap="round"></path>
+    </g>
+</svg>
